@@ -6,4 +6,4 @@ author:
 description: "My personal Journey."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: mmistakes/jekyll-theme-skinny-bones
