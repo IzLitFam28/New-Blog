@@ -1,0 +1,9 @@
+# Site settings
+title: A New and Great Journey
+author:
+  name: Jeremy Christopher
+  email: gratefulcoder75@gmail.com
+description: "My personal Journey."
+
+# Build settings
+remote_theme: jekyll/minima
