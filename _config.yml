@@ -7,4 +7,4 @@ description: "My personal Journey."
 
 
 # Build settings
-remote_theme: poole/hyde
+remote_theme: jekyll/minima
